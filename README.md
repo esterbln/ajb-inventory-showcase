@@ -41,14 +41,10 @@ Laravel 12, PHP, MySQL, Tailwind CSS, Laravel Reverb, Vite. Metode pengembangan:
 - White Box dan Black Box Testing: seluruh fungsi modul berjalan sesuai rancangan.
 - Pre-test dan post-test kepuasan operasional: naik 42% (Pemilik) dan 40,67% (Admin Cabang).
 
-## Keterbatasan
-
-Sistem belum digunakan untuk operasional harian, dan tampilan di smartphone untuk halaman dengan data padat masih perlu disempurnakan.
-
 ## Penulis
 
 **Ester Belen Wijaya** | Program Studi Sistem Informasi, Universitas Bandar Lampung
-LinkedIn: TEMPEL-TAUTAN-LINKEDIN-ANDA
+LinkedIn: (https://www.linkedin.com/in/ester-belen-wijaya-857951233/?isSelfProfile=true)
 
 ## Hak Cipta
 
