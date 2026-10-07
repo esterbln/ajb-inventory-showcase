@@ -9,13 +9,23 @@ Proyek skripsi S1 Sistem Informasi, Universitas Bandar Lampung, 2026.
 
 ## Tampilan Sistem
 
+**Monitoring**
+
 | Dashboard Pemilik | Dashboard Admin Cabang |
 |---|---|
 | ![Dashboard Pemilik](docs/dashboardpemilik.png) | ![Dashboard Admin](docs/dashboardadmin.png) |
 
-| Transaksi Barang Keluar | Verifikasi Audit (Pemilik) |
+**Transaksi dan laporan**
+
+| Transaksi Barang Keluar | Laporan Stok |
 |---|---|
-| ![Transaksi Keluar](docs/transaksikeluar.png) | ![Verifikasi Audit](docs/verifikasipemilik.png) |
+| ![Transaksi Keluar](docs/transaksikeluar.png) | ![Laporan Stok](docs/laporanstok.png) |
+
+**Audit stok**
+
+| Input Opname (Admin Cabang) | Verifikasi Audit (Pemilik) |
+|---|---|
+| ![Input Opname](docs/inputopname.png) | ![Verifikasi Audit](docs/verifikasipemilik.png) |
 
 ## Latar Belakang
 
