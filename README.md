@@ -51,6 +51,10 @@ Laravel 12, PHP, MySQL, Tailwind CSS, Laravel Reverb, Vite. Metode pengembangan:
 - White Box dan Black Box Testing: seluruh fungsi modul berjalan sesuai rancangan.
 - Pre-test dan post-test kepuasan operasional: naik 42% (Pemilik) dan 40,67% (Admin Cabang).
 
+## Catatan
+
+Repositori ini hanya berisi data contoh, bukan data asli Toko Andre Jaya Ban.
+
 ## Penulis
 
 **Ester Belen Wijaya** | Program Studi Sistem Informasi, Universitas Bandar Lampung
