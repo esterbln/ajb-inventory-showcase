@@ -2,7 +2,7 @@
 
 **Perpetual Inventory System | Studi Kasus: Toko Andre Jaya Ban**
 
-Proyek skripsi S1 Sistem Informasi, Universitas Bandar Lampung, 2026.
+Proyek S1 Sistem Informasi, Universitas Bandar Lampung, 2026.
 
 > Kode sumber disimpan di repositori privat. Repositori ini berisi penjelasan dan tampilan sistem.
 > Untuk keperluan akademik atau rekrutmen, silakan hubungi penulis.
