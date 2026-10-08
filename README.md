@@ -10,7 +10,7 @@ Proyek skripsi S1 Sistem Informasi, Universitas Bandar Lampung, 2026.
 ## Tampilan Sistem
 
 **Monitoring**
-
+[![Demo Dashboard](images/thumbnail.png)](youtu.be/vz8k2z3LEow)
 | Dashboard Pemilik | Dashboard Admin Cabang |
 |---|---|
 | ![Dashboard Pemilik](docs/dashboardpemilik.png) | ![Dashboard Admin](docs/dashboardadmin.png) |
